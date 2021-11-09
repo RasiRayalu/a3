@@ -16,4 +16,4 @@ Connect your Github repo to Heroku and Authorise for acces.
 Choose the branch to deploy.
 Finish the setup and use Access app option to open the Hosted app.
 To Access the live application:
-Go to [App](https://a3.herokuapp.com/
+Go to [App](https://a3php.herokuapp.com/)
